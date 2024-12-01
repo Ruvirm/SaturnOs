@@ -1,4 +1,4 @@
-### <img src="/icon/SaturnOS.png" alt="icon" width="256">
+### <img src="/icon/logOs.png" alt="icon" width="256">
 
 
 
@@ -11,7 +11,7 @@
 
 
 ## Введение:
-### SaturnOs
+### logOs
 
 Простая операционная система с собственным ядром. 
 
